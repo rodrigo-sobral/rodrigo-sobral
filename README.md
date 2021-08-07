@@ -17,7 +17,7 @@ ___
 	<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-line.svg">
 	<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-plain.svg">
 	<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
-	<img align="right" alt="Animed Rodrigo" height="170" width="170" src="https://cdn.discordapp.com/attachments/866689984119832576/873382193228034058/readme_github.gif">
+	<img align="right" alt="Animed Rodrigo" height="150" width="150" src="https://cdn.discordapp.com/attachments/866689984119832576/873382193228034058/readme_github.gif">
 </div>
   
 
@@ -40,5 +40,5 @@ ___
  
 <div> 
   	<a href = "mailto:rodrigosobral@sapo.pt"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  	<a href="https://www.linkedin.com/in/rodrigo-sobral-378080151/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>	
+  	<a href="https://www.linkedin.com/in/rodrigo-sobral-378080151/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
