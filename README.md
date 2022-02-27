@@ -2,7 +2,10 @@
 
 ___
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/RodrigoSobral.png" alt="TryHackMe">
+<div>
+	<a href="https://tryhackme.com/p/RodrigoSobral">	
+	<img src="https://tryhackme-badges.s3.amazonaws.com/RodrigoSobral.png" alt="TryHackMe">
+</div>
 <div>
 	<a href="https://github.com/RodrigoSobral2000">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSobral2000&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
