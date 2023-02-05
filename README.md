@@ -27,7 +27,6 @@ ___
 	<img align="right" alt="Animed Rodrigo" height="150" width="150" src="readme_github.gif">
 	|
 	<img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-          
 </div>
   
 
