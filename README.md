@@ -4,7 +4,7 @@
 	<img alt="Animated Rodrigo" height="150" width="150" src="readme_github.gif">
 	<br><br>
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9892A2&center=true&width=435&lines=Wait%2C+let+me+just+put+down+my+beer;Hey!+Sup%2C+I'm+Rodrigo;Welcome+to+my+profile;I+really+hope+it+helps+you;If+it+does%2C+you+own+me+another+beer;But+before+that" alt="Typing SVG" >
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9892A2&center=true&width=435&lines=Wait%2C+let+me+just+put+my+beer+down;Hey!+Sup%2C+I'm+Rodrigo;Welcome+to+my+profile;I+really+hope+it+helps+you;If+it+does%2C+you+own+me+another+beer;But+before+that" alt="Typing SVG" >
 	</a>
 	<br>
 	<a href="https://github.com/RodrigoSobral2000">
