@@ -7,9 +7,9 @@
 <!-- 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=9892A2&center=true&width=435&lines=Wait%2C+let+me+just+put+my+beer+down;Hey!+Sup%2C+I'm+Rodrigo;Welcome+to+my+profile;I+really+hope+it+helps+you;If+it+does%2C+you+own+me+another+beer;But+before+that" alt="Typing SVG" > -->
 <!-- 	</a> -->
 <!-- 	<br> -->
-	<a href="https://github.com/RodrigoSobral2000">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSobral2000&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSobral2000&layout=compact&langs_count=7&theme=onedark">
+	<a href="https://github.com/rodrigo-sobral">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-sobral&show_icons=true&theme=onedark&include_all_commits=true&count_private=true">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-sobral&layout=compact&langs_count=7&theme=onedark">
 	</a>
 	<br><br>
 	<a href="https://tryhackme.com/p/RodrigoSobral">	
