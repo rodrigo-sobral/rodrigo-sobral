@@ -63,7 +63,7 @@
 <br><br>
 
 <div align="center"> 
-	<a href = "mailto:rodrigosobral@sapo.pt" target="_blank">
+	<a href = "mailto:contact@rodrig-sobral.com" target="_blank">
 		<img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
 	</a>
 	<a href="https://www.linkedin.com/in/rodrigo-sobral-378080151/" target="_blank">
